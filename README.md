@@ -20,8 +20,8 @@ The default target is the public test form `tsmanaged.zlsupport.com`, so the fir
 ## Quick start
 
 ```bash
-git clone https://github.com/CapMonsterCloud/python-selenium-turnstile-capmonster.git
-cd python-selenium-turnstile-capmonster
+git clone https://github.com/CapMonsterCloud/python-selenium-turnstile-solver.git
+cd python-selenium-turnstile-solver
 pip install -r requirements.txt
 
 export CAPMONSTER_API_KEY=your_key        # Windows: set CAPMONSTER_API_KEY=your_key
